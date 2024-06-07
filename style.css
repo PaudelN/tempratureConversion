@@ -1,0 +1,22 @@
+#box {
+  border: 1px solid;
+  height: 10rem;
+  width: 22rem;
+  margin: auto;
+  padding: 15px;
+  box-shadow: 4px 4px 4px grey;
+}
+
+#tempLabel {
+  font-size: 24px;
+  margin: 11rem;
+  padding: 10px;
+  
+}
+
+#submitBtn {
+  margin-left: 10rem;
+  margin-top: 18px;
+  padding: 8px;
+  font-size: 17px;
+}
